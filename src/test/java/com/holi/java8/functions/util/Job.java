@@ -1,4 +1,4 @@
-package com.holi.java8.functions;
+package com.holi.java8.functions.util;
 
 import java.util.HashSet;
 import java.util.List;

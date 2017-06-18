@@ -5,8 +5,8 @@ import org.junit.Test;
 import java.util.concurrent.CountDownLatch;
 import java.util.function.Supplier;
 
-import static com.holi.java8.functions.Job.*;
 import static com.holi.java8.functions.SynchronizedSupplier.sync;
+import static com.holi.java8.functions.util.Job.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.sameInstance;
